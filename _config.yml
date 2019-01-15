@@ -5,3 +5,4 @@ logo: images/logo.png
 
 collections:
   - experience
+    output: true
