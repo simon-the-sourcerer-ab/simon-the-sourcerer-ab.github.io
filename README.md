@@ -4,4 +4,4 @@ The services I can offer range from expertise in everything running on a Linux s
 
 I have experience in R&D from several industries such as MedTech, Food & Pharma, Household appliances, Electronics, and industrial equipment.
 
-Drop me an e-mail if you want to inquire about my services.
+[Drop me an e-mail](mailto:github@thesourcerer.se) if you want to inquire about my services.
