@@ -1,0 +1,7 @@
+simon:
+  name: Simon Pettersson
+  picture: /images/logo.png
+  links:
+    - title: LinkedIn
+      url: https://se.linkedin.com/in/simon-pettersson-9423635a
+      icon: fab fa-linkedin
