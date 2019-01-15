@@ -4,7 +4,7 @@ description: Expert application development and Linux consulting
 logo: images/logo.png
 
 collections:
-  - experience
+  - experience:
     output: true
 
 defaults:
