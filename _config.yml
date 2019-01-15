@@ -1,4 +1,4 @@
 remote_theme: mmistakes/so-simple-theme
 title: Simon the Sourcerer AB
 description: Expert application development and Linux consulting
-site.logo: images/logo-rectangular.svg
+logo: images/logo.svg
