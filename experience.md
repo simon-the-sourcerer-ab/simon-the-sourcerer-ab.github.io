@@ -1,6 +1,6 @@
 ---
 title: Experience
-layout: collection
+layout: experience
 permalink: /experience/
 collection: experience
 ---
